@@ -1,0 +1,25 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "create:stone_types/tuff"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:flint",
+            "chance": 0.25
+        },
+        {
+            "id": "create:zinc_nugget",
+            "chance": 0.4
+        }
+    ],
+    "processingTime": 100,
+    "conditions": [
+        {
+            "modid": "create",
+            "type": "forge:mod_loaded"
+        }
+    ]
+}

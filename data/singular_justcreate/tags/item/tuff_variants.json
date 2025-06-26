@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tuff",
+    "minecraft:chiseled_tuff",
+    "minecraft:polished_tuff",
+    "minecraft:tuff_bricks",
+    "minecraft:chiseled_tuff_bricks",
+    "create:cut_tuff",
+    "create:polished_cut_tuff",
+    "create:cut_tuff_bricks",
+    "create:small_tuff_bricks",
+    "create:layered_tuff",
+    "create:tuff_pillar"
+  ]
+}
